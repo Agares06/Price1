@@ -1,0 +1,2 @@
+http://www.delphikingdom.com/asp/viewitem.asp?catalogid=1275&mode=print#12
+https://docs.microsoft.com/ru-ru/office/vba/api/excel.range
